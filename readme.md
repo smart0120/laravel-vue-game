@@ -23,7 +23,7 @@ Before starting the install guide be sure that PHP with sqlite support, Node.JS 
 
 Clone the repository:
 ```sh
-git clone https://github.com/ivanszkypeter/codenames.git
+git clone https://github.com/smart0120/laravel-vue-game.git
 ```
 
 > If you want to skip the following steps, do all the steps of the install with only one command:
