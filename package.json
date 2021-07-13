@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.14.1",
     "ioredis": "^2.5.0",
-    "redis" : "^0.12.1",
+    "redis": "^0.12.1",
     "socket.io": "^1.7.2"
   }
 }
